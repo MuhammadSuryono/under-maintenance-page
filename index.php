@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="http://ppdb.smkwidyawisata-jimbaran.sch.id/dist/logo.jpg"/>
+	<link rel="icon" type="image/png" href="images/icons/logo.png"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -23,9 +23,10 @@
 </head>
 <body>
 	
-	
 	<div class="bg-g1 size1 flex-w flex-col-c-sb p-l-15 p-r-15 p-t-55 p-b-35 respon1">
-		<span></span>
+		<span class="center">
+			<img style="width: 20%" src="images/icons/logo.png" />
+		</span>
 		<div class="flex-col-c p-t-50 p-b-50">
 			<h3 class="l1-txt1 txt-center p-b-10">
 				SEGERA
